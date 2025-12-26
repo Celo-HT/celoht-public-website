@@ -1,0 +1,3 @@
+- Smart contract reviewed
+- No token issued
+- Funds non-custodial
